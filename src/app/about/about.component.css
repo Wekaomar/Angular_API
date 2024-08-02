@@ -1,0 +1,16 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{
+    color: #5cc3e9;
+}
+#about{
+    background-color: #490f3e;
+    height: 100vh;
+}
+#about h2{
+    font-size: 40px;
+}

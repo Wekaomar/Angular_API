@@ -1,0 +1,21 @@
+
+#home{
+    background-color: #490f3e;
+    height: 100vh;
+}
+
+.home-content img{
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+}
+
+
+.home-content h1 span{
+    color: #5cc3e9;
+    font-size: 40px;
+}
+
+P{
+    font-size: 20px;
+    color: #6cd3f8;}

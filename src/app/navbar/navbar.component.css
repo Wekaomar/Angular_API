@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #2a88aa86;
+}
+.navbar-brand{
+    font-size: 32px;
+}
+.navbar-brand span{
+    color:  #490f3e;}
+.act{
+    background-color: #490f3e;;
+    border-radius: 10px;
+}
